@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "499758519173",
+    "firebase_url": "https://smartguard-36733.firebaseio.com",
+    "project_id": "smartguard-36733",
+    "storage_bucket": "smartguard-36733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499758519173:android:98ceda35b725ef31",
+        "android_client_info": {
+          "package_name": "com.hbeonlabs.smartguard.v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499758519173-0lndu5u0b0lpuedt7n5sb7lb49jvdaqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hbeonlabs.smartguard.v2",
+            "certificate_hash": "97602db730ae36eca333634a3310ed7c3db188db"
+          }
+        },
+        {
+          "client_id": "499758519173-r3jl475305e5ace4j79gocc80f47dq9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_UDSn8q6Y43lzvXbVJxNr85K6cryTO3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499758519173-r3jl475305e5ace4j79gocc80f47dq9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
