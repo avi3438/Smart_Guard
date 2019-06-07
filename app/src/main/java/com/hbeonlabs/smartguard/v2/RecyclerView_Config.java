@@ -38,7 +38,7 @@ public class RecyclerView_Config extends AppCompatDialogFragment {
     private Context mcontext;
     private DataAdapter mDataAdapter;
 
-  
+
 
 
 
